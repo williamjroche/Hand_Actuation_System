@@ -15,6 +15,7 @@
 - Wrist manipualtion via NEMA 17 stepper motor (*Not implemented yet*)
 - Arduino Uno microcontroller (AVR based)
 - Custom control program (AVR C program)
+  - Button to open hand, button to close hand
 
 ## Project Roadmap:
 - Design and test palm designs (PLA)
