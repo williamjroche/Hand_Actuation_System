@@ -5,8 +5,7 @@
   The Hand Actuation System is a cost effective robotic hand designed for dexterous movement and strength manipulation. This system integrates mechanical design, embedded electronics, and a custom control program.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b541f0ce-d563-47e8-be7f-3430da4784af)
-" />
+  <img src="https://github.com/user-attachments/assets/b541f0ce-d563-47e8-be7f-3430da4784af" />
 </p>
 
 
