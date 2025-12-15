@@ -12,19 +12,19 @@
 ## Features:
 - 3D printed structure
 - Servo actuated joints
-- Wrist manipualtion via NEMA 17 stepper motor
+- Wrist manipualtion via NEMA 17 stepper motor (*Not implemented yet*)
 - Arduino Uno microcontroller (AVR based)
-- Custom control program
+- Custom control program (AVR C program)
 
 ## Project Roadmap:
 - Design and test palm designs (PLA)
-- Implement servo control (MG90S servos)
+- Implement servo control (MG90S & MG996R servos)
 - Design and test finger joints (PLA, aluminum)
 - Test finger actuation
-- Implement stepper motor control (NEMA 17)
 - Design and test wrist joint actuation
 - Design and test forearm designs (PLA)
 - Test different 3D printing materials
+- Implement stepper motor control (NEMA 17)
 - Redesign and retest
 
 ## Repo Usage:
@@ -34,3 +34,6 @@
 1) Fork the repo
 2) Create a feature branch
 3) Submit a pull request
+
+## Demo Video:
+https://youtube.com/shorts/E759LSxpx3w?feature=share
