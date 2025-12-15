@@ -8,6 +8,7 @@
   <img width="360" height="640" alt="image" src="https://github.com/user-attachments/assets/b541f0ce-d563-47e8-be7f-3430da4784af" />
 </p>
 
+*Note: this test uses an open source CAD model found here: https://www.thingiverse.com/thing:2269115*
 
 ## Features:
 - 3D printed structure
