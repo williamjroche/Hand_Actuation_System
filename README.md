@@ -42,9 +42,9 @@
 3) Submit a pull request
 
 ## Demo Video:
-Robot hand:
-- https://youtube.com/shorts/E759LSxpx3w?feature=share
-Hand Tracking:
-- https://youtu.be/f70n2JQ5Q2o
+- Robot hand:
+  - https://youtube.com/shorts/E759LSxpx3w?feature=share
+- Hand Tracking:
+  - https://youtu.be/f70n2JQ5Q2o
 
 
