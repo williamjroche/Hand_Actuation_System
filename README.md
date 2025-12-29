@@ -18,16 +18,20 @@
 - Custom control program (AVR C program)
   - Button to open hand, button to close hand
 
-## Project Roadmap:
-- Design and test palm designs (PLA)
-- Implement servo control (MG90S & MG996R servos)
+## Hand Design Roadmap:
 - Design and test finger joints (PLA, aluminum)
+- Design and test palm designs
+- Implement servo control (MG90S & MG996R servos)
 - Test finger actuation
 - Design and test wrist joint actuation
-- Design and test forearm designs (PLA)
-- Test different 3D printing materials
-- Implement stepper motor control (NEMA 17)
+- Design and test forearm designs
 - Redesign and retest
+
+## Computer Vision Based Tracking system
+- computer vision based hand tracking for hand control
+- OpenCV for live camera feed and visuals
+- MediaPipe Hand Tracking model (hand_tracking.task file included)
+- Hard coded gesture recognition (safer for servo motors)
 
 ## Repo Usage:
 - to be annouced [project in progress]
@@ -38,4 +42,9 @@
 3) Submit a pull request
 
 ## Demo Video:
-https://youtube.com/shorts/E759LSxpx3w?feature=share
+Robot hand:
+- https://youtube.com/shorts/E759LSxpx3w?feature=share
+Hand Tracking:
+- https://youtu.be/f70n2JQ5Q2o
+
+
