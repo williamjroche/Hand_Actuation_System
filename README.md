@@ -2,7 +2,7 @@
 
 
 ## Overview:
-  The Hand Actuation System is a cost effective robotic hand designed for dexterous movement and strength manipulation. This system integrates mechanical design, embedded electronics, and a custom control program.
+  The Hand Actuation System is a cost effective robotic hand designed for dexterous movement and strength manipulation. This system integrates mechanical design, embedded electronics, a custom control program, and a computer vision based hand tracking software.
 
 <p align="center">
   <img width="260" height="540" alt="image" src="https://github.com/user-attachments/assets/b541f0ce-d563-47e8-be7f-3430da4784af" />
@@ -29,7 +29,7 @@
 - Redesign and retest
 
 ## Computer Vision Based Tracking system
-- computer vision based hand tracking for hand control
+- Computer vision based hand tracking for hand control
 - OpenCV for live camera feed and visuals
 - MediaPipe Hand Tracking model (hand_tracking.task file included)
 - Hard coded gesture recognition (safer for servo motors)
