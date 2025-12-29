@@ -6,6 +6,7 @@
 
 <p align="center">
   <img width="360" height="640" alt="image" src="https://github.com/user-attachments/assets/b541f0ce-d563-47e8-be7f-3430da4784af" />
+  <img width="494" height="512" alt="image" src="https://github.com/user-attachments/assets/42480471-0b95-4630-ac63-90ac728ea99d" />
 </p>
 
 *Note: this test uses an open source CAD model found here: https://www.thingiverse.com/thing:2269115*
