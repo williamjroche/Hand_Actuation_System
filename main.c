@@ -61,7 +61,7 @@ void process_gesture(char* gesture){
 		pinky_curpos = 0;
 		thumb2_curpos = 2200;
 	} 
-	else if (strcmp(gesture, "FIST") == 0) {
+	else if (strcmp(gesture, "CLOSED") == 0) {
 		//closed fist
 		ServoMove all_servos_close[] = {
 			{1, index_curpos, 1500},  //servo 1: index closed
