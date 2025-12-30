@@ -20,7 +20,7 @@
   - Button to open hand, button to close hand
 
 ## Hand Design Roadmap:
-- Design and test finger joints (PLA, aluminum)
+- Design and test finger joints
 - Design and test palm designs
 - Implement servo control (MG90S & MG996R servos)
 - Test finger actuation
