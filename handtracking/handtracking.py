@@ -4,6 +4,7 @@
 
 #if you don't want to scroll:
 # Current recognized gestures: rock n roll (with thumb extended), point index, peace, open hand, fist, pinch (index and thumb only), F.U. (middle finger)
+# make sure hand_landmarker.task is in the same folder as this file and the path is correct in line 44
 # press q to exit
 
 import cv2
@@ -133,7 +134,7 @@ def classify_gesture(hand):
         return "OPEN"
     #closed fist
     elif not thumb and not index and not middle and not ring and not pinky:
-        return "FIST"
+        return "CLOSED"
     #point index
     elif not thumb and index and not middle and not ring and not pinky:
         return "POINT"
