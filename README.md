@@ -39,3 +39,5 @@
   - https://youtube.com/shorts/E759LSxpx3w?feature=share
 - Hand Tracking:
   - https://youtu.be/f70n2JQ5Q2o
+- Full demo with hand tracking controlling the robotic hand:
+    - https://youtu.be/Jt7LHe6XbXg
