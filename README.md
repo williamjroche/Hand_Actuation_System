@@ -34,18 +34,8 @@
 - MediaPipe Hand Tracking model (hand_tracking.task file included)
 - Hard coded gesture recognition (safer for servo motors)
 
-## Repo Usage:
-- to be annouced [project in progress]
-
-## Guidelines for contributions:
-1) Fork the repo
-2) Create a feature branch
-3) Submit a pull request
-
 ## Demo Video:
 - Robot hand:
   - https://youtube.com/shorts/E759LSxpx3w?feature=share
 - Hand Tracking:
   - https://youtu.be/f70n2JQ5Q2o
-
-
